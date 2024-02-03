@@ -1,0 +1,12 @@
+{
+    "html.autoClosingTags": true,
+    "auto-close-tag.enableAutoCloseTag": true,
+    "auto-close-tag.activationOnLanguage": [ "html", "javascript" ],
+    "auto-close-tag.excludedTags": [
+        "li",
+        "tr",
+        "th",
+        "td"
+    ],
+    "html.completion.attributeDefaultValue": "empty"
+}
